@@ -1,9 +1,8 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Reinforcement Learning and Explainable AI ✨  
-- 🌱 I’m currently learning how to intergrate it into real-life use cases
-- 👯 I’m looking to collaborate with those who share the same chemistry
-- 🤔 I’m looking for help with a few concepts, oh well~
+### Hi there 👋 I’m currently
+- 🔭  working on Deep Reinforcement Learning and Explainable AI ✨  
+- 🌱  learning how to intergrate them into real-world use cases
+- 👯  looking to collaborate with those who share the same chemistry
+- 🤔  looking for help with a few concepts, oh well~
 - 💬 Ask me about strategies to overcome challenges with resilience
 - 📫 How to reach me: www.linkedin.com/in/christellejulias/
 - 😄 Pronouns: he/she/her/they/them/ etc.
