@@ -1,2 +1,2 @@
 Code Warrior by Day 🌞, 
-Ikigai coach by Night 🌚
+Ikigai Coach by Night 🌚
